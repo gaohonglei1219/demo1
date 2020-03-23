@@ -7,4 +7,7 @@ public class Demo {
 	public static void hi(){
 		System.out.println("张阳光真帅啊");
 	}
+	public static void demo1(){
+		System.out.println("IDEA好！！！！！");
+	}
 }
