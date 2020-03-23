@@ -10,4 +10,7 @@ public class Demo {
 	public static void demo1(){
 		System.out.println("IDEA好！！！！！");
 	}
+	public static void demo2(){
+		System.out.println("IDEA好！！！！！");
+	}
 }
